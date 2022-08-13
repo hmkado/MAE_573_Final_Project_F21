@@ -1,0 +1,12 @@
+﻿# 
+# 12/16/2021 16:44:57
+# The parameters defined in the project are:
+# ,P1 - Rotational Velocity Z Component [rev min^-1],P2 - Total Deformation Maximum [m],P3 - Equivalent Stress Average [Pa],P4 - Safety Factor Minimum
+# 
+# The following header line defines the name of the columns by reference to the parameters.
+Name,P1,P2,P3,P4
+DP 0,5000,0.000181554451296818,1670430.85873763,8.32748306327341
+DP 1,4000,0.00011619484681225016,1069075.7506743071,13.01169249594326
+DP 2,3000,6.5359603221225312E-05,601355.10939010966,15
+DP 3,2000,2.9048711703062539E-05,267268.93766857695,15
+DP 4,1000,7.2621779257656347E-06,66817.234417144209,15
